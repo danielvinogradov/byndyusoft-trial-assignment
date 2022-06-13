@@ -14,7 +14,7 @@
                                                                        
 ## Решение
 
-Метод и его описание находится тут – `src/com.byndyusoft.util.IntArrayUtils.findSumOfTwoMinValues`, а юнит тесты к 
+Метод и его описание находятся тут – `com.byndyusoft.util.IntArrayUtils#findSumOfTwoMinValues`, а юнит тесты к 
 нему вот тут – `test/com/byndyusoft/util/IntArrayUtilsTest.java`.
 
 
